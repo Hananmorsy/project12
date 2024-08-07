@@ -1,0 +1,12 @@
+#square{
+  width: 80%;
+  height: 70%;
+  background-color: hsl(185, 75%, 39%);
+  background-image: url('./assets/bg-pattern-top.svg');
+ background-image: url(./assets/bg-pattern-bottom.svg);
+  background-repeat: no-repeat;
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
